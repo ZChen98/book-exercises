@@ -15,7 +15,7 @@ print(n + 1)
 
 # Create a vector `m` that contains the numbers 10 to 1 (in that order). 
 # Hint: use the `seq()` function
-m <- seq(10, 1, -1)
+m <- seq(10, 1)
 
 # Subtract `m` FROM `n`. Note the recycling!
 n - m
